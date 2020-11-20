@@ -1,4 +1,4 @@
-# Hello-World-2
+# Hello, world!
 
 Hi everyone!
 
